@@ -13,6 +13,9 @@
 %% STEP 1: Read in the data
 % Set up a list of subject IDs - each one corresponds to a Sheet in the
 % Excel file
+
+%% Here I'm just going to add some redundant text so I can make a new commit. In this I'm going to say that I'm trying out github for the first time.
+
 subs = {
     '870417DW'
     '881212EW' 
